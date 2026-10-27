@@ -27,8 +27,8 @@ const ContactInfo = () => {
         {
             icon: <Phone className="w-5 h-5" />,
             title: "Phone",
-            value: "(773) 430-3534",
-            link: "tel:+17734303534",
+            value: "(847) 558-6865",
+            link: "tel:+18475586865",
         },
         {
             icon: <Mail className="w-5 h-5" />,

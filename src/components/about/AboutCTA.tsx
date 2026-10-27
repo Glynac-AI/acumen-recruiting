@@ -110,8 +110,8 @@ const AboutCTA = () => {
                                         <div>
                                             <div className="text-white font-medium mb-1">Phone</div>
                                             <p className="text-white/80">
-                                                <a href="tel:+17734303534" className="hover:text-white transition-colors">
-                                                    (773) 430-3534
+                                                <a href="tel:+18475586865" className="hover:text-white transition-colors">
+                                                    (847) 558-6865
                                                 </a>
                                             </p>
                                         </div>
